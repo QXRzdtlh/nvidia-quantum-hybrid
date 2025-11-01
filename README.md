@@ -93,7 +93,7 @@ nvidia-quantum-hybrid/
 
 If you use or adapt this repository, please cite
 
-> Sylvester Kaczmarek (2025). *NVIDIA Quantum Hybrid* (Version 0.2). Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Sylvester Kaczmarek (2025). *NVIDIA Quantum Hybrid*. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 
 Badge (after Zenodo assigns the DOI)
 
