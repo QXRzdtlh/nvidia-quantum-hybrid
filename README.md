@@ -108,6 +108,19 @@ Badge
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17502919.svg)](https://doi.org/10.5281/zenodo.17502919)
 
+**BibTeX**
+```bibtex
+@software{Kaczmarek_2025_NVIDIA_Quantum_Hybrid,
+  author    = {Sylvester Kaczmarek},
+  title     = {{NVIDIA Quantum Hybrid}},
+  year      = {2025},
+  month     = nov,
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.17502919},
+  url       = {https://github.com/sylvesterkaczmarek/nvidia-quantum-hybrid}
+}
+```
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
