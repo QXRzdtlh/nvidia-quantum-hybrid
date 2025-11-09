@@ -104,8 +104,6 @@ If you use or adapt this repository, please cite
 
 > Kaczmarek, S. (2025). *NVIDIA Quantum Hybrid*. Zenodo. https://doi.org/10.5281/zenodo.17502919
 
-Badge
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17502919.svg)](https://doi.org/10.5281/zenodo.17502919)
 
 **BibTeX**
@@ -114,10 +112,9 @@ Badge
   author    = {Sylvester Kaczmarek},
   title     = {{NVIDIA Quantum Hybrid}},
   year      = {2025},
-  month     = nov,
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.17502919},
-  url       = {https://github.com/sylvesterkaczmarek/nvidia-quantum-hybrid}
+  url       = {https://github.com/sylvesterkaczmarek/nvidia-quantum-hybrid},
+  doi       = {10.5281/zenodo.17502919}
 }
 ```
 
