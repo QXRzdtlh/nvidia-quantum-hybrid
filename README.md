@@ -1,5 +1,7 @@
 # NVIDIA Quantum Hybrid
+[![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17502919.svg)](https://doi.org/10.5281/zenodo.17502919)
 
 This repository shows a small classical–quantum–classical workflow with an explicit safety gate. It is written to match the current NVIDIA work on quantum to GPU hybrid computing and to show how AI safety and AI security logic can control access to quantum routines.
 
